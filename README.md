@@ -1,10 +1,2 @@
-# Frontend2022
-# HTML 
-## 태그(tag)
-+ 표준 : https://html.spec.whatwg.org/multipage/
-+ 참고 사이트
-    + https://www.w3schools.com/
-    + https://developer.mozilla.org/ko/docs/Web/HTML
-    + https://www.advancedwebranking.com/seo/html-study/
-    + https://emmet.io/
-    + https://www.photopea.com/
+# 반응형 웹서비스
+- https://thswodn1234.github.io/project1_web/
